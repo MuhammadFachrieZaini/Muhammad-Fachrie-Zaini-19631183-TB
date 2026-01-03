@@ -77,6 +77,3 @@ private static final String PASSWORD = ""; // Isi password MySQL Anda
 - Pastikan MySQL Server sudah berjalan
 - Periksa username dan password di DatabaseConnection.java
 - Pastikan database `db_krs_kampus` sudah dibuat
-
-### Tombol tidak berwarna (warna tidak muncul)
-- Ini normal di beberapa Look and Feel. Warna akan terlihat saat hover atau di Look and Feel tertentu.
