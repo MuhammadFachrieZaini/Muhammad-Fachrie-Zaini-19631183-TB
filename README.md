@@ -9,9 +9,6 @@
 
 ### 1. Buat Database
 Jalankan file `db_krs_kampus.sql` di MySQL:
-```sql
-source c:/Users/Saputra/Documents/NetBeansProjects/Muhammad Fachrie Zaini-19631183-TB/db_krs_kampus.sql;
-```
 Atau buka file tersebut di MySQL Workbench/phpMyAdmin dan jalankan seluruh isinya.
 
 ### 2. Tambahkan MySQL Connector ke NetBeans
